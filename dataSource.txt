@@ -1,0 +1,2 @@
+Data was collected from: https://divvy-tripdata.s3.amazonaws.com/index.html
+It corresponds to the last 12 months
